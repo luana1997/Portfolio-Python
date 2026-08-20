@@ -9,7 +9,7 @@ Registrar minha jornada de aprendizado em Python, desenvolvendo lógica de progr
 ## 📂 Conteúdo
 
 - ✅ Introdução à programação;
--  Primeiros passos com Python;
+- ✅ Primeiros passos com Python;
 -  Tipos primitivos;
 -  Entrada e saída de dados;
 -  Operadores aritméticos;
