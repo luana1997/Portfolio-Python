@@ -23,6 +23,7 @@ Registrar minha jornada de aprendizado em Python, desenvolvendo lógica de progr
 
 ## :calendar: Tarefas
 - [x] Conhecer o Python e suas aplicações;
+- [x] Primeiros passos em Python
 
 ## 🛠 Tecnologias
 - Python 3;
