@@ -23,7 +23,7 @@ Aprender os conceitos básicos de Python, utilizando print() para exibir informa
 - print()
 - input()
 - =
-- +
+- ++
 - ,
 
 🏆 Desafios da aula
